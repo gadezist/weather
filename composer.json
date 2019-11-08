@@ -1,0 +1,20 @@
+{
+    "name": "abytko/weather",
+    "description": "My first pacage",
+    "type": "project",
+    "require": {
+        "php": ">=5.5.0",
+        "tcdent/php-restclient": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrii Bytko",
+            "email": "abytko@student.unit.ua"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": ["weather.php"]
+    }
+}
