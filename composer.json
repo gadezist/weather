@@ -1,7 +1,7 @@
 {
     "name": "abytko/weather",
     "description": "My first pacage",
-    "type": "project",
+    "type": "library",
     "require": {
         "php": ">=5.5.0",
         "tcdent/php-restclient": "dev-master"
